@@ -7,3 +7,6 @@ Just an ipa for blocking ocsp.apple.com
 - Trust
 - Wait till it shows "panic" (dont tap the "panic" button)
 - Done
+
+
+**DISCLAIMER:** I do not take responsibility for any damage done to your device while using it.

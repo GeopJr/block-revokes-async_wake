@@ -5,5 +5,5 @@ Just an ipa for blocking ocsp.apple.com
 - Download the ipa
 - Install it using cydia impactor
 - Trust
-- Wait till it shows "panic"
+- Wait till it shows "panic" (dont tap the "panic" button)
 - Done

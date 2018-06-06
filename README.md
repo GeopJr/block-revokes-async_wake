@@ -1,3 +1,6 @@
+# There's no need to use this , this was made when there was no iOS 11 jailbreak , please use ElectraJB
+https://electrajb.com/
+
 # block-revokes-async_wake
 Just an ipa for blocking ocsp.apple.com
 

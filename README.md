@@ -13,3 +13,10 @@ Just an ipa for blocking ocsp.apple.com
 
 
 **DISCLAIMER:** I do not take responsibility for any damage done to your device while using it.
+
+<div align="center">
+  <br />
+  <p>
+    <img src="https://i.imgur.com/uIOpz3t.png" alt="info"/></a>
+  </p>
+  </div>

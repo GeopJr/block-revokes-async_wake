@@ -17,6 +17,6 @@ Just an ipa for blocking ocsp.apple.com
 <div align="center">
   <br />
   <p>
-    <img src="https://i.imgur.com/uIOpz3t.png" alt="info"/></a>
+    <img src="https://i.imgur.com/HEtVbUc.png" alt="info"/></a>
   </p>
   </div>
